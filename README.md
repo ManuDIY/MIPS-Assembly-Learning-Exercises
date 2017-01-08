@@ -27,4 +27,4 @@ A solution to the monkeyTrouble practice problem on CodingBat in ASM. http://cod
 
 This project was used to learn recrusion and system calls in ASM. A user is prompted for `n` which must be >= 0 and `k` which must be between `0` and `n`.  N choose K is then calculated with the values. https://en.wikipedia.org/wiki/Binomial_coefficient
 
-[!Alt text](https://raw.githubusercontent.com/zimmertr/MIPS-Assembly-Projects/master/nCr/screenshot.png "Screenshot of nCr")
+![Alt text](https://raw.githubusercontent.com/zimmertr/MIPS-Assembly-Projects/master/nCr/screenshot.png "Screenshot of nCr")
