@@ -1,4 +1,4 @@
-# MIPS-Assembly-Projects
+# MIPS Assembly Projects: CIS251
 
 These projects were completed during a class I took in school to learn assembly language and hardware-software interaction. A MIPS compiler is required to run this code. It was originally written using MARS http://courses.missouristate.edu/KenVollmar/mars/
 
